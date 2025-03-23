@@ -7,7 +7,6 @@ Sora is a simple, intuitive programming language written in **plain English**, d
 If you find Sora useful and want to support its development, consider sponsoring or contributing to the project. 
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-Support-blue?style=for-the-badge&logo=github-sponsors)](https://paystack.com/pay/iameas)
-
 [![Contribute](https://img.shields.io/badge/Contribute-Join-orange?style=for-the-badge&logo=github)](https://github.com/iameas/sora/issues)
 
 ## Connect with Me
@@ -27,7 +26,16 @@ If you find Sora useful and want to support its development, consider sponsoring
 
 To get started with Sora, follow these steps:
 
-```sh
-# Clone the repository
-git clone https://github.com/iameas/sora.git
-cd sora
+    ```sh
+    # Clone the repository
+    git clone https://github.com/iameas/sora.git
+    cd sora
+
+###VS Code Extension
+
+Sora has an official VS Code extension that provides syntax highlighting, linting, and debugging.
+Install it from the marketplace: Sora VS Code Extension
+
+Contributing
+
+Contributions are welcome! Check out the issues page for tasks you can help with.
