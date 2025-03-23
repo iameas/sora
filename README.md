@@ -4,9 +4,10 @@
 
 Sora is a simple, intuitive programming language written in **plain English**, designed to make development easier and more accessible. As the sole creator of Sora, I am continuously working to improve and expand its capabilities.  
 
-If you find Sora useful and want to support its development, consider sponsoring or contributing to the project.  
+If you find Sora useful and want to support its development, consider sponsoring or contributing to the project. 
 
-[![Sponsor (Nigeria Only)](https://img.shields.io/badge/Sponsor-Support-blue?style=for-the-badge&logo=github-sponsors)](https://paystack.com/pay/iameas)
+Nigeria Only
+[![Sponsor](https://img.shields.io/badge/Sponsor-Support-blue?style=for-the-badge&logo=github-sponsors)](https://paystack.com/pay/iameas)
 [![Contribute](https://img.shields.io/badge/Contribute-Join-orange?style=for-the-badge&logo=github)](https://github.com/iameas/sora/issues)
 
 ## Connect with Me
