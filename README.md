@@ -26,11 +26,11 @@ If you find Sora useful and want to support its development, consider sponsoring
 
 Steps on how to install Sora will be out soon. Please stay tuned!
 
-###VS Code Extension
+## VS Code Extension
 
-Sora has an official VS Code extension that provides syntax highlighting, linting, and debugging.
+Sora has an official [VS Code extension](https://github.com/iameas/sora-vscode-1.0.0) that provides syntax highlighting, linting, and debugging.
 Install it from the marketplace: Sora VS Code Extension
 
-###Contributing
+## Contributing
 
 Contributions are welcome! Check out the [issues](https://github.com/iameas/sora/issues) page for tasks you can help with.
