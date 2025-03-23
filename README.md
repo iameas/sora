@@ -6,8 +6,8 @@ Sora is a simple, intuitive programming language written in **plain English**, d
 
 If you find Sora useful and want to support its development, consider sponsoring or contributing to the project.  
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-Support-orange?style=for-the-badge&logo=github-sponsors)](YOUR_SPONSOR_LINK)  
-[![Contribute](https://img.shields.io/badge/Contribute-Join-blue?style=for-the-badge&logo=github)](https://github.com/iameas/sora/issues)
+[![Sponsor][![Sponsor](https://img.shields.io/badge/Sponsor-Support-blue?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/iameas)
+[![Contribute](https://img.shields.io/badge/Contribute-Join-orange?style=for-the-badge&logo=github)](https://github.com/iameas/sora/issues)
 
 ## Connect with Me
 
