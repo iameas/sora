@@ -1,1 +1,1 @@
-# Sora Programming Language VS Codr Extension 
+# Sora Programming Language VS Code Extension 
