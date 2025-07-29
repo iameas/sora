@@ -1,4 +1,4 @@
-# Sora Programming Language 
+# Sora extension for VS Code
 
 Sora is a human-centric, natural-language-inspired programming language designed to make coding as intuitive and readable as conversation. It aims to bridge the gap between human thought and machine logic by allowing developers — beginners and professionals alike — to express computation in grammatical, structured English.
 
