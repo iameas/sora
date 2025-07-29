@@ -1,2 +1,1 @@
-# sora-vscode_extension
-Sora Programming Language Visual Studio Extension
+# VS Code Extension For Sora Programming Language 
