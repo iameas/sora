@@ -5,7 +5,8 @@ Sora is a simple, human-readable programming language designed for both develope
 - Create user interfaces without tage or curly braces
 - Use natural expressions like `let`, `be`, `show`, `make`, `and`, `is`
 - Bridge the gap between no-code, pseudo-code, and real-code
-  
-## Overview
 
-## Sora Architecture
+## Editing Sora
+- [Sora Extension Support for Visual Studio Code](#)
+  
+## Core Design Principles
