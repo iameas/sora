@@ -7,7 +7,7 @@ Sora is a simple, human-readable programming language designed for both develope
 - Bridge the gap between no-code, pseudo-code, and real-code
 
 ## Editing Sora
-- [Sora Extension Support for Visual Studio Code](#)
+- [Sora Extension Support for Visual Studio Code](https://github.com/iameas/sora-extension)
   
 ## Core Design Principles
 - Natural syntax inspired by English
