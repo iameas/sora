@@ -23,3 +23,15 @@ Sora is a simple, human-readable programming language designed for both develope
 - `make`: Reassign or update a value
 - `as`: Assign a class/style name
 - `if/elseif/else`: Conditional logic
+- `is`: Equality comparison
+- `not`, `and`, `or`: Logical operations
+- `show()`: Output to the console
+- `print()`: Output to the UI screen (UI)
+- `print -r`: Show alert modal (like alert())
+- `modal()`: Show rich modal with buttons/text
+- input(): Accept user input from prompt
+- `none()`: Represents `null` or `undefined`
+- `style`: CSS-like styling block
+- `style()`: Inline style
+- `when tapped`: Handle button or component events
+- `#` and `##`: Single-line and block comments
