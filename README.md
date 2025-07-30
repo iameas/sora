@@ -10,3 +10,13 @@ Sora is a simple, human-readable programming language designed for both develope
 - [Sora Extension Support for Visual Studio Code](#)
   
 ## Core Design Principles
+- Natural syntax inspired by English
+- Clean logic flow with minimal symbols
+- UI-friendly with built-in components
+- Sytle as CSS or inline via `.style()`
+- Custom modal alerts and interactions
+- Modular, extensible, and expresisve
+
+## Keywords Reference
+| Keyword | Purpose |
+----------| ---------|
