@@ -18,5 +18,4 @@ Sora is a simple, human-readable programming language designed for both develope
 - Modular, extensible, and expresisve
 
 ## Keywords Reference
-| Keyword | Purpose |
-----------| ---------|
+** `let` defines a new variable
