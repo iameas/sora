@@ -1,0 +1,4 @@
+Modal(
+  Button[Cancel, Continue],
+  Text("Welcome") desc("Do you want to continue?")
+)
