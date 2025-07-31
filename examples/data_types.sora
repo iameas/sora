@@ -1,0 +1,14 @@
+# This represents the core data types in Sora Programming Language
+
+# String in Sora
+let name be "ThankGod Emmanuel"
+
+# Interger in Sora
+let a be 200
+
+# Floats in Sora
+let amount be 90.98
+
+# Boolean in Sora
+if age is 18
+make isActive True
